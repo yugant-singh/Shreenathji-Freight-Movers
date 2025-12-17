@@ -282,6 +282,7 @@ main .view2 .top .rht-top p a {
   }
   main .view2 .top {
     flex-direction: row;
+    align-items: center;
   }
   main .view2 .top .lft-top, main .view2 .top .rht-top {
     width: 50%;
